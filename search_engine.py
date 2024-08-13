@@ -1,8 +1,3 @@
-"""
-Ryka Chandra
-Intermediate Data Programming
-"""
-
 from document import Document
 from math import log
 import os
