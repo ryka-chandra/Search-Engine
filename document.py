@@ -1,8 +1,3 @@
-"""
-Ryka Chandra
-Intermediate Data Programming
-"""
-
 import re
 
 
